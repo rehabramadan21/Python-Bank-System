@@ -1,0 +1,42 @@
+[
+  {
+    "name": "rehab",
+    "password": "2612",
+    "phone number": "011",
+    "gender": "female",
+    "age": 20,
+    "city": "cairo",
+    "id": 1,
+    "currentBalance": 325.0
+  },
+  {
+    "name": "soha",
+    "password": "12345",
+    "phone number": "01128611970",
+    "gender": "male",
+    "age": 25,
+    "city": "nasr city",
+    "id": 2,
+    "currentBalance": 5000.0
+  },
+  {
+    "name": "toka",
+    "password": "12345\\",
+    "phone number": "01157630424",
+    "gender": "female",
+    "age": 26,
+    "city": "Nasr City",
+    "id": 3,
+    "currentBalance": 3200.0
+  },
+  {
+    "name": "Abd El-Rahman",
+    "password": "123456",
+    "phone number": "01128611970",
+    "gender": "male",
+    "age": 50,
+    "city": "Abu Zabal",
+    "id": 4,
+    "currentBalance": 1000.0
+  }
+]
