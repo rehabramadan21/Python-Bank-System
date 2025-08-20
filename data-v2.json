@@ -1,0 +1,22 @@
+[
+  {
+    "name": "rehab",
+    "password": "2612",
+    "phone number": "01157630424",
+    "gender": "female",
+    "age": 20,
+    "city": "cairo",
+    "id": 1,
+    "currentBalance": 3000.0
+  },
+  {
+    "name": "mohamed",
+    "password": "123456",
+    "phone number": "01128611970",
+    "gender": "male",
+    "age": 26,
+    "city": "cairo",
+    "id": 2,
+    "currentBalance": 6000.0
+  }
+]
